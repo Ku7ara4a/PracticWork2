@@ -28,7 +28,7 @@ class Ui_SideWindow(object):
         self.label = QLabel(self.centralwidget)
         self.label.setObjectName(u"label")
         self.label.setGeometry(QRect(60, 0, 691, 441))
-        self.label.setPixmap(QPixmap(u"CsarZverei.jpg"))
+        self.label.setPixmap(QPixmap(u"Pictures\CsarZverei.jpg"))
         self.label.setScaledContents(True)
         self.label_2 = QLabel(self.centralwidget)
         self.label_2.setObjectName(u"label_2")
